@@ -6,6 +6,7 @@ import Support from './components/Support'
 import Leaderboard from './components/Leaderboard'
 import Activity from './components/Activity'
 import Story from './components/Story'
+import Fundraiser from './components/Fundraiser'
 
 function App() {
   
@@ -19,6 +20,7 @@ function App() {
       <Leaderboard/>
       <Activity/>
       <Story/>
+      <Fundraiser/>
     </>
   )
 }
